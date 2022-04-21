@@ -6,9 +6,9 @@ TerrainLayer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: 12-TerrainLayer
-  m_DiffuseTexture: {fileID: 2800000, guid: 9a22e1db27bbd294fb00c090dfe8ccfa, type: 3}
-  m_NormalMapTexture: {fileID: 2800000, guid: cdd6301b5e0a7334f963efa812b3f60d, type: 3}
+  m_Name: DirtyGreen_TerrainLayer 1
+  m_DiffuseTexture: {fileID: 2800000, guid: 92b488df7fa08654d90835dd5bd513cd, type: 3}
+  m_NormalMapTexture: {fileID: 2800000, guid: eed5b3cb114118d498dc6b4fd4d52d4c, type: 3}
   m_MaskMapTexture: {fileID: 2800000, guid: 564731fcb853d17479e23d641858742c, type: 3}
   m_TileSize: {x: 20, y: 20}
   m_TileOffset: {x: 0, y: 0}
