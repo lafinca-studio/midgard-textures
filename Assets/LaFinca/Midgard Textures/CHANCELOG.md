@@ -1,6 +1,11 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.2.0] - 2022-04-27
+### Added
+- More 9 PBR Materials, Layers and Textures for Mjolnir Package.
+- New names for textures and reorganized folders.
+
 ## [1.1.1] - 2022-04-24
 ### Changed
 - Fixed brightness of light color textures.

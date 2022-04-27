@@ -9,7 +9,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: MAT_MjolnirDarkRock
   m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
-  m_ShaderKeywords: _METALLICGLOSSMAP _NORMALMAP _PARALLAXMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
+  m_ShaderKeywords: _NORMALMAP _PARALLAXMAP _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
     _USERIM_ON _USESPECULAR_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: 404450acb8eefea458e033a83f02f6bc, type: 3}
+        m_Texture: {fileID: 2800000, guid: 0840e8a2f1c03dd41a034a830963064f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -41,7 +41,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: edcd0375d8fdaf64e8b6fb5a223f432a, type: 3}
+        m_Texture: {fileID: 2800000, guid: e248a278535f1ed42b5dc4f1b06f5a67, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTexture:
@@ -57,11 +57,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 769f566863fd45d4c9868953d5986fd3, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
-        m_Texture: {fileID: 2800000, guid: 69f070f3c8f5c6b428914ab99a628d75, type: 3}
+        m_Texture: {fileID: 2800000, guid: 2b1ae901c3473ce4f80a006233118e12, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _PolyArtAlbedo:
@@ -91,13 +91,13 @@ Material:
     m_Floats:
     - _Animate: 0
     - _Brightness: 0
-    - _BumpScale: 0.03
+    - _BumpScale: 1
     - _ChangeAxis: 0
     - _Color2Power: 0
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 0
     - _DstBlend: 0
-    - _GlossMapScale: 0.13
+    - _GlossMapScale: 0.284
     - _Glossiness: 1
     - _GlossyReflections: 1
     - _GradientPosition: 0
@@ -109,7 +109,7 @@ Material:
     - _Mode: 0
     - _NormalStrength: 1
     - _OcclusionStrength: 1
-    - _Parallax: 0.04
+    - _Parallax: 0.0561
     - _RimBlend: 0
     - _RimLightColor: 0
     - _RimLightIntensity: 0
