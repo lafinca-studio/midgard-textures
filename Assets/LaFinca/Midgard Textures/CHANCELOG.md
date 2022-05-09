@@ -1,6 +1,14 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.3.0] - 2022-04-27
+### Added
+- More 9 diffuse color variations to PBR textures.
+- Increased to total 28 combinations of materials and terrain layers.
+### Changed
+- LightGreen Texture folder to HeavyMossyGrass.
+- Brightness of Green Field and Dry Grass.
+
 ## [1.2.0] - 2022-04-27
 ### Added
 - More 9 PBR Materials, Layers and Textures for Mjolnir Package.
