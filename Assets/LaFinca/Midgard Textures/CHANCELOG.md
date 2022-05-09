@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [1.3.0] - 2022-04-27
+## [1.3.0] - 2022-05-09
 ### Added
 - More 9 diffuse color variations to PBR textures.
 - Increased to total 28 combinations of materials and terrain layers.
