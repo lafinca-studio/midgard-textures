@@ -1,6 +1,6 @@
 {
   "name": "com.lafinca.midgard.textures",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "displayName": "Midgard Textures",
   "description": "This package provides the game designers a collection of textures to remind old school games. \nIt will start with a few textures and materials at 2k resolution.\n\nThese textures are pixelated and could be used specially for level design and terrains.",
   "keywords": [
